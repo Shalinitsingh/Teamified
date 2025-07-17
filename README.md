@@ -17,7 +17,9 @@ A simple Retrieval‑Augmented Generation (RAG) pipeline over PDF documents, pow
 
 - Python 3.8 or higher  
 - A Google Generative AI API key (Gemini)  
-- (Optional) GPU for faster embedding, but CPU works too  
+- (Optional) GPU for faster embedding, but CPU works too
 
+  ## run command
+- streamlit run run.py
 
 
